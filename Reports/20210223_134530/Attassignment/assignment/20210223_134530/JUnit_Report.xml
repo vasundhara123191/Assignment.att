@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="assignment" time="5.398" tests="1" failures="0" skips="0" errors="0">
+   <testsuite name="assignment" tests="1" failures="0" errors="0" time="5.398" skips="0" timestamp="2021-02-23 13:45:35" hostname="Vasundhra - Vasundhra-PC.mshome.net" id="Test Suites/Attassignment/assignment">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Vasundhra\\git\\Assignment.att\\Assignment.att\\Reports\\20210223_134530\\Attassignment\\assignment\\20210223_134530"/>
+         <property name="logFiles" value="C:\\Users\\Vasundhra\\git\\Assignment.att\\Assignment.att\\Reports\\20210223_134530\\Attassignment\\assignment\\20210223_134530\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Vasundhra - Vasundhra-PC.mshome.net"/>
+         <property name="hostAddress" value="172.31.128.1"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="7.9.1.208"/>
+      </properties>
+      <testcase name="Test Cases/Attassignment/assignment" time="3.048" classname="Test Cases/Attassignment/assignment" status="PASSED">
+         <system-out><![CDATA[2021-02-23 13:45:37 - [TEST_CASE][PASSED] - Test Cases/Attassignment/assignment: Test Cases/Attassignment/assignment
+
+2021-02-23 13:45:37 - [TEST_STEP][PASSED] - response = sendRequest(findTestObject("Attassignment/assignment")): Send request successfully
+
+2021-02-23 13:45:39 - [MESSAGE][INFO] - HAR: C:\Users\Vasundhra\git\Assignment.att\Assignment.att\Reports\20210223_134530\Attassignment\assignment\20210223_134530\requests\main\0.har
+
+2021-02-23 13:45:40 - [MESSAGE][PASSED] - Send request successfully
+
+2021-02-23 13:45:40 - [TEST_STEP][PASSED] - verifyResponseStatusCode(response, 200): Verify response status code successfully
+
+2021-02-23 13:45:40 - [MESSAGE][PASSED] - Verify response status code successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2021-02-23 13:45:35 - [TEST_SUITE][PASSED] - assignment: Test Cases/Attassignment/assignment]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
